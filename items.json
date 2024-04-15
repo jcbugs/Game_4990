@@ -1,0 +1,56 @@
+[
+    {
+        "item_name": "Potion",
+        "description": "heal",
+        "effect": "5",
+        "target": "hp"
+    },
+    {
+        "item_name": "Super Potion",
+        "description": "heal",
+        "effect": "10",
+        "target": "hp"
+    },
+    {
+        "item_name": "Mega Potion",
+        "description": "heal",
+        "effect": "20",
+        "target": "hp"
+    },
+    {
+        "item_name": "Full Potion",
+        "description": "heal",
+        "effect": "100",
+        "target": "hp"
+    },
+    {
+        "item_name": "Energy Drink",
+        "description": "improve accuracy",
+        "effect": "10",
+        "target": "accuracy"
+    },
+    {
+        "item_name": "Monster Energy Drink",
+        "description": "improve accuracy",
+        "effect": "20",
+        "target": "accuracy"
+    },
+    {
+        "item_name": "Smelling Salts",
+        "description": "improve power",
+        "effect": "10",
+        "target": "power"
+    },
+    {
+        "item_name": "Super Smelling Salts",
+        "description": "improve power",
+        "effect": "20",
+        "target": "power"
+    },
+    {
+        "item_name": "Mega Smelling Salts",
+        "description": "improve power",
+        "effect": "30",
+        "target": "power"
+    }
+]

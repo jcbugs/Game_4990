@@ -1,0 +1,32 @@
+[
+    {
+        "character_name": "Office-Bro",
+        "description": "Works in the office all the time",
+        "hp": 60,
+        "power": 15,
+        "hp_up": 2,
+        "power_up": 2,
+        "accuracy": 60,
+        "number": 1
+    },
+    {
+        "character_name": "Gym-Bro",
+        "description": "Works out all the time at the gym",
+        "hp": 70,
+        "power": 30,
+        "hp_up": 2,
+        "power_up": 2,
+        "accuracy": 30,
+        "number": 2
+    },
+    {
+        "character_name": "Gambler-Bro",
+        "description": "Enjoys high stake gamble",
+        "hp": 70,
+        "power": 100,
+        "hp_up": 2,
+        "power_up": 2,
+        "accuracy": 5,
+        "number": 3
+    }
+]

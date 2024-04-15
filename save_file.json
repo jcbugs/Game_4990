@@ -1,0 +1,16 @@
+{
+    "Name": "",
+    "Bro": "Gym-Bro",
+    "Level": 1,
+    "XP": 0,
+    "XP_Per_Level": 0,
+    "HP": 70,
+    "Power": 30,
+    "HP_Up": 2,
+    "Power_Up": 2,
+    "Accuracy": 30,
+    "Items": {
+        "Potion": 1,
+        "Super Potion": 1
+    }
+}
